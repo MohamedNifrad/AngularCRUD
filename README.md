@@ -2,7 +2,7 @@
 
 
 Employee list
-![GitHub Logo](Screenshot (112).png) Format: ![Alt Text](url)
+(Screenshot (112).png) Format: ![Alt Text](https://github.com/MohamedNifrad/AngularCRUD/Screenshot (112).png)
 
 Add employee
-![GitHub Logo](Screenshot (113).png) Format: ![Alt Text](url)
+(Screenshot (113).png) Format: ![Alt Text](https://github.com/MohamedNifrad/AngularCRUD/Screenshot (113).png)
